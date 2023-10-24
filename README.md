@@ -1,4 +1,4 @@
-### 😄 안녕하세요!
+### 😄 안녕하세요 여연재입니다!
 
 #### 기술 스택
 
@@ -17,4 +17,4 @@
 #### 연락처
 
 - 📧 이메일: [이메일 주소]
-- 🐦 트위터: [@TwitterHandle](https://twitter.com/TwitterHandle)
+- 🚀 [Notion](Notion 페이지 URL]
